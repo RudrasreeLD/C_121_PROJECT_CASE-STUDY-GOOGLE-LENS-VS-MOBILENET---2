@@ -1,0 +1,42 @@
+h1
+{
+    color: black;
+}
+
+h2
+{
+    color: red;
+}
+
+img
+{
+    width: 400px;
+}
+
+.image
+{
+    height: 400px;
+}
+
+div
+{
+    background-color: rgb(215, 215, 215);
+    padding: 5px;
+}
+
+h3
+{
+    color: black;
+}
+
+#end
+{
+    background-color: rgb(255, 194, 172);
+    padding: 5px;
+    white-space: pre-line;
+}
+
+
+
+
+
